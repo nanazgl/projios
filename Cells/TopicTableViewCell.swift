@@ -1,8 +1,8 @@
 //
 //  TopicTableViewCell.swift
-//  UIKit for iOS 15
+//  
 //
-//  Created by Sai Kambampati on 11/4/21.
+//  Created by Nazgul Atykhan
 //
 
 import UIKit

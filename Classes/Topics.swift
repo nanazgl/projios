@@ -1,8 +1,8 @@
 //
 //  Topics.swift
-//  UIKit for iOS 15
+//  
 //
-//  Created by Sai Kambampati on 11/4/21.
+//  Created by Nazgul Atykhan
 //
 
 import UIKit
@@ -18,7 +18,7 @@ class Topic {
 }
 
 let topics = [
-    Topic(name: "iOS Development", icon: "iphone"),
-    Topic(name: "UI Design", icon: "eyedropper"),
-    Topic(name: "Web Development", icon: "desktopcomputer")
+    Topic(name: "Introduce yourself in Korean", icon: "iphone"),
+    Topic(name: "The best way to improve listening skils", icon: "eyedropper"),
+    Topic(name: "How to find Korean friends", icon: "desktopcomputer")
 ]

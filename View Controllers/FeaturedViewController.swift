@@ -1,8 +1,8 @@
 //
 //  FeaturedViewController.swift
-//  UIKit for iOS 15
+//  
 //
-//  Created by Sai Kambampati on 10/23/21.
+//  Created by Nazgul Atykhan
 //
 
 import UIKit

@@ -1,8 +1,8 @@
 //
 //  CustomView.swift
-//  UIKit for iOS 15
 //
-//  Created by Sai Kambampati on 11/1/21.
+//
+//  Created by Nazgul Atykhan
 //
 
 import UIKit

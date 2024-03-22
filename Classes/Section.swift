@@ -1,8 +1,8 @@
 //
 //  Section.swift
-//  UIKit for iOS 15
+//  
 //
-//  Created by Sai Kambampati on 11/7/21.
+//  Created by Nazgul Atykhan
 //
 
 import Foundation
@@ -25,7 +25,9 @@ class Section {
 }
 
 let sections = [
-    Section(title: "Advanced Custom Layout", subtitle: "SwiftUI for iOS 15", description: "Build an iOS app for iOS 15 with custom layouts.", icon: UIImage(named: "Logo SwiftUI"), banner: UIImage(named: "Illustration 3")),
-    Section(title: "Coding the Home View", subtitle: "SwiftUI Concurrency", description: "Learn about the formatted(date:time:) method and AsyncImage", icon: UIImage(named: "Logo SwiftUI"), banner: UIImage(named: "Illustration 4")),
-    Section(title: "Colors and Shadows", subtitle: "Flutter for Designers", description: "Read about the design guidelines and how you can use color to maximize your best views", icon: UIImage(named: "Logo Flutter"), banner: UIImage(named: "Illustration 1")),
+    Section(title: "Alpabet", subtitle: "First step to Korean", description: "Start your first step with alphabet.", icon: UIImage(named: "Logo SwiftUI"), banner: UIImage(named: "Illustration 3")),
+    Section(title: "Greetings and Introducing", subtitle: "First step to Korean", description: "Learn how to greet, ask someone's nationalities / jobs and answer those questions", icon: UIImage(named: "Logo SwiftUI"), banner: UIImage(named: "Illustration 4")),
+    Section(title: "Family", subtitle: "First step to Korean", description: "Learn the expressions about family", icon: UIImage(named: "Logo Flutter"), banner: UIImage(named: "Illustration 1")),
+    Section(title: "Sports, Travel and Home", subtitle: "Basic Spanish", description: "A new vocabulary that will prepare you to discuss sports, pastimes and politics", icon: UIImage(named: "Logo SwiftUI"), banner: UIImage(named: "Illustration 3")),
 ]
+
