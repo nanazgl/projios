@@ -1,10 +1,4 @@
-/* 
-  Localizable.strings
-  UIKit for iOS 15
 
-  Created by Sai Kambampati on 1/13/22.
-  
-*/
 "SwiftUI Concurrency" = "SwiftUI Concurrency";
 "NEW VIDEO" = "NOUVEAU VIDÉO";
 "Build an iOS app for iOS 15 with custom layouts, animations and more!" = "Créez une application iOS pour iOS 15 avec des mises en page personnalisées, des animations et plus encore !";
