@@ -17,7 +17,6 @@ class SectionTableViewCell: UITableViewCell {
     override func awakeFromNib() {
         super.awakeFromNib()
         
-        // Accessibility
         titleLabel.adjustsFontForContentSizeCategory = true
         titleLabel.maximumContentSizeCategory = .extraExtraLarge
         titleLabel.font = UIFont.preferredFont(for: .headline, weight: .bold)
@@ -34,6 +33,5 @@ class SectionTableViewCell: UITableViewCell {
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
 
-        // Configure the view for the selected state
     }
 }

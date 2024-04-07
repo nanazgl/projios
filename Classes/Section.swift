@@ -25,9 +25,9 @@ class Section {
 }
 
 let sections = [
-    Section(title: "Alpabet", subtitle: "First step to Korean", description: "Start your first step with alphabet.", icon: UIImage(named: "Logo SwiftUI"), banner: UIImage(named: "Illustration 3")),
-    Section(title: "Greetings and Introducing", subtitle: "First step to Korean", description: "Learn how to greet, ask someone's nationalities / jobs and answer those questions", icon: UIImage(named: "Logo SwiftUI"), banner: UIImage(named: "Illustration 4")),
-    Section(title: "Family", subtitle: "First step to Korean", description: "Learn the expressions about family", icon: UIImage(named: "Logo Flutter"), banner: UIImage(named: "Illustration 1")),
-    Section(title: "Sports, Travel and Home", subtitle: "Basic Spanish", description: "A new vocabulary that will prepare you to discuss sports, pastimes and politics", icon: UIImage(named: "Logo SwiftUI"), banner: UIImage(named: "Illustration 3")),
+    Section(title: "Alpabet", subtitle: "First step to Korean", description: "Start your first step with alphabet.", icon: UIImage(named: "Logo Korean"), banner: UIImage(named: "Illustration 3")),
+    Section(title: "Greetings and Introducing", subtitle: "First step to Korean", description: "Learn how to greet, ask someone's nationalities / jobs and answer those questions", icon: UIImage(named: "Logo Korean"), banner: UIImage(named: "Illustration 4")),
+    Section(title: "Family", subtitle: "First step to Korean", description: "Learn the expressions about family", icon: UIImage(named: "Logo Korean"), banner: UIImage(named: "Illustration 1")),
+    Section(title: "Sports, Travel and Home", subtitle: "Basic Spanish", description: "A new vocabulary that will prepare you to discuss sports, pastimes and politics", icon: UIImage(named: "Logo Spain"), banner: UIImage(named: "Illustration 3")),
 ]
 
